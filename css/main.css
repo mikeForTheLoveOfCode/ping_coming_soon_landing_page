@@ -90,6 +90,7 @@ input::placeholder{
 
 .formGroup .btn:hover{
     background-color: #668ff4;
+    transition: .6s ease-in;
 }
 
 /* Image */
